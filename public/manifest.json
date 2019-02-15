@@ -1,0 +1,25 @@
+{
+  "short_name": "Cycle",
+  "name": "Cycle.js",
+  "display": "standalone",
+  "background_color": "#3273DC",
+  "orientation": "portrait",
+  "theme_color": "#3273DC",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    },    {
+      "src": "favicon-640x640.png",
+      "type": "image/png",
+      "sizes": "640x640"
+    }
+  ]
+}
